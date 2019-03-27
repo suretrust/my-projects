@@ -11,7 +11,7 @@ Pair programming or single-handedly built projects.
 6. Bootstrap - https://github.com/suretrust/bootstrap
 7. CSS framework - https://github.com/suretrust/css-framework
 8. CSS positioning and floating - https://github.com/suretrust/css-positioning-floating
-9- Responsive Design - https://github.com/suretrust/responsive-design
+9. Responsive Design - https://github.com/suretrust/responsive-design
 10. CSS background and gradients - https://github.com/suretrust/css-background
 
 ## Ruby
