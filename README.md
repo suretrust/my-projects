@@ -2,7 +2,6 @@
 Pair programming or single-handedly built projects.
 
 ## HTML and CSS projects
-
 - Embedding Images and Video - https://github.com/suretrust/html-video-embed
 - HTML Forms Design - https://github.com/suretrust/mint-sign-in-page
 - CSS Positioning and Floating Elements - https://github.com/jeton-th/css-positioning-floating
@@ -16,4 +15,7 @@ Pair programming or single-handedly built projects.
 ## Ruby
 - Bubble sorts method - https://github.com/suretrust/bubble-sort
 - Recreating "Enumerables module" in Ruby - https://github.com/suretrust/enumerable-methods
+
+## JavaScript
+- Vanilla JS calculator - https://github.com/suretrust/js-calculator
 
