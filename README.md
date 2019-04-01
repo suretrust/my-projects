@@ -16,8 +16,6 @@ Pair programming or single-handedly built projects.
 - Bubble sorts method - https://github.com/suretrust/bubble-sort
 - Recreating "Enumerables module" in Ruby - https://github.com/suretrust/enumerable-methods
 - Building a tic-tac-toe console game - https://github.com/suretrust/tic-tac-toe
-
-### RSPEC Testing
 - Testing enumerable methods with rspec - https://github.com/suretrust/enumerable-module-rspec
 - Testing tic-tac-toe game with rspec - https://github.com/suretrust/tic-tac-toe-testing
 
