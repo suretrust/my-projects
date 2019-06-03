@@ -19,6 +19,9 @@ Pair programming or single-handedly built projects.
 - Testing enumerable methods with rspec - https://github.com/suretrust/enumerable-module-rspec
 - Testing tic-tac-toe game with rspec - https://github.com/suretrust/tic-tac-toe-testing
 
+## Ruby on Rails
+- Eventsio - https://github.com/suretrust/private-events
+
 ## JavaScript
 - Vanilla JS calculator - https://github.com/suretrust/js-calculator
 
