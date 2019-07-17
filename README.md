@@ -21,6 +21,7 @@ Pair programming or single-handedly built projects.
 
 ## Ruby on Rails
 - Eventsio - https://github.com/suretrust/private-events
+- Devium - https://github.com/mosaaleb/fakebook
 
 ## JavaScript
 - Vanilla JS calculator - https://github.com/suretrust/js-calculator
