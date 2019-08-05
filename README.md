@@ -25,5 +25,6 @@ Pair programming or single-handedly built projects.
 
 ## JavaScript
 - Calculator - https://github.com/suretrust/js-calculator
+- Library - https://github.com/suretrust/library
 - Tic-Tac-Toe - https://github.com/suretrust/js-tic-tac-toe
 
