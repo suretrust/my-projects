@@ -24,5 +24,6 @@ Pair programming or single-handedly built projects.
 - Devium - https://github.com/mosaaleb/fakebook
 
 ## JavaScript
-- Vanilla JS calculator - https://github.com/suretrust/js-calculator
+- Calculator - https://github.com/suretrust/js-calculator
+- Tic-Tac-Toe - https://github.com/suretrust/js-tic-tac-toe
 
