@@ -27,4 +27,6 @@ Pair programming or single-handedly built projects.
 - Calculator - https://github.com/suretrust/js-calculator
 - Library - https://github.com/suretrust/library
 - Tic-Tac-Toe - https://github.com/suretrust/js-tic-tac-toe
-
+- Simple restaurant homepage - https://github.com/suretrust/restaurant-homepage
+- Todo list app - https://github.com/suretrust/todo-list
+- Weather app - https://github.com/suretrust/weather-app
